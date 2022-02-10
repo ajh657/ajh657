@@ -5,7 +5,7 @@
 ### Finnish programmer by profession and hobby
 
 ## Short description:
-- 🏢 I’m currently employed by Aksulit Oy: https://aksulit.com/
+- 🏢 I’m currently on a internship at Adafy Oy
 - You'll find my miscellaneous projects on my github.
 
 ### Human Languages: 
