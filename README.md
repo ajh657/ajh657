@@ -14,10 +14,11 @@
 
 ### Programming languages
 - C# - fluent
+- VB - Good
 - Java - Good
 - JavaScript - Good
 - Html - Good
-- CSS - meh
+- CSS - Ok
 
 
 
