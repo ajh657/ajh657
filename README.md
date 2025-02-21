@@ -5,7 +5,7 @@
 ### Finnish programmer by profession and hobby
 
 ## Short description:
-- 🏢 I’m currently a junior dev at Adafy Oy
+- 🏢 I was a junior dev at Adafy Oy but currently looking for work
 - You'll find my miscellaneous projects on my github.
 
 ### Human Languages: 
